@@ -3,7 +3,7 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://han-xintong.github.io/</loc>
-    <lastmod>2026-07-31</lastmod>
+    <lastmod>2026-09-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
     <image:image>
@@ -16,7 +16,7 @@
     </image:image>
     <image:image>
       <image:loc>https://han-xintong.github.io/pub-online-education.webp</image:loc>
-      <image:title>Effectiveness of Online Education During the COVID-19 Pandemic: Evidence from Chinese Universities</image:title>
+      <image:title>Effectiveness of online education during the COVID-19 pandemic: Evidence from Chinese universities</image:title>
     </image:image>
     <image:image>
       <image:loc>https://han-xintong.github.io/pub-energy-pricing.webp</image:loc>

@@ -16,7 +16,7 @@ Xintong Han studies quantitative marketing, digital platforms, platform economic
 
 - Digital revitalization or useless effort? Public e-commerce support and local specialty sales (2026). Xintong Han, Jan Victor Dee, Shaojia Wang & Kefan Chen. Journal of Development Economics, 179, 103665. https://doi.org/10.1016/j.jdeveco.2025.103665
   - Finding: Platform access increased online sales by 16.649% and decreased offline sales by 15.549%, while total sales remained broadly unchanged.
-- Effectiveness of Online Education During the COVID-19 Pandemic: Evidence from Chinese Universities (2026). Xintong Han, Shijie Lu, Xin (Shane) Wang & Nan Cui. Production and Operations Management, 35(3), 978–994. https://doi.org/10.1177/10591478251361979
+- Effectiveness of online education during the COVID-19 pandemic: Evidence from Chinese universities (2026). Xintong Han, Shijie Lu, Xin (Shane) Wang & Nan Cui. Production and Operations Management, 35(3), 978–994. https://doi.org/10.1177/10591478251361979
   - Finding: Online education increased mathematics scores by 8–11 points on a 100-point scale; effects varied with course type and lockdown policies.
 - Nonlinear pricing in multidimensional context: An empirical analysis of energy consumption (2023). Xintong Han, Zimin Liu & Tong Wang. International Journal of Industrial Organization, 91, 103034. https://doi.org/10.1016/j.ijindorg.2023.103034
   - Finding: The structural estimates imply that a 1% price increase reduces total electricity demand by about 0.7%, with limited scope for further tariff optimization.
@@ -34,4 +34,4 @@ Xintong Han studies quantitative marketing, digital platforms, platform economic
 
 ## Provenance
 
-Profile and appointment information is based on official Université Laval records. Peer-reviewed publication metadata is linked to DOI and publisher records. Working-paper information summarizes the author's current research record and linked institutional records where available. This summary was last verified on 2026-07-31.
+Profile and appointment information is based on official Université Laval records. Peer-reviewed publication metadata is linked to DOI and publisher records. Working-paper information summarizes the author's current research record and linked institutional records where available. This summary was last verified on 2026-09-04.
