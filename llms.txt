@@ -55,7 +55,7 @@ Xintong Han studies digital platforms, pricing policies, and networks, using str
 
 ## Conference participation
 
-[Conference map and records](https://han-xintong.github.io/about/#conferences): 18 in-person conferences and workshops across 12 cities, 2019–2026. Includes presentations and discussions; online participation is excluded. Entries identify host institutions, not exact physical venues.
+[Conference map and records](https://han-xintong.github.io/about/#conferences): 18 conferences and workshops across 12 cities, 2019–2026. Entries identify host institutions and any discussant roles.
 - Québec City: 2026 — 65ème Congrès annuel de la Société canadienne de science économique
 - Montréal: 2024 — 63ème Congrès annuel de la Société canadienne de science économique; 2022 — Montreal Econometrics Conference
 - New York: 2019 — NET Institute Conference
