@@ -3,6 +3,7 @@
 > Xintong Han is an Assistant Professor of Marketing in the Department of Marketing at the Faculty of Business Administration, Université Laval.
 
 Canonical profile: https://han-xintong.github.io/
+Academic background: https://han-xintong.github.io/about/
 Official university profile: https://www.fsa.ulaval.ca/en/expert/xintong-han/
 ORCID: https://orcid.org/0000-0001-7369-0506
 Google Scholar: https://scholar.google.com/citations?user=ZbgMprUAAAAJ&hl=en
@@ -10,28 +11,51 @@ Email: xintong.han@fsa.ulaval.ca
 
 ## Research
 
-Xintong Han studies quantitative marketing, digital platforms, platform economics, network economics, empirical industrial organization, structural econometrics, causal inference, and machine learning in econometrics.
+Xintong Han studies digital platforms, pricing policies, and networks, using structural econometrics, causal inference, and machine learning in econometrics.
 
 ## Selected peer-reviewed publications
 
-- Digital revitalization or useless effort? Public e-commerce support and local specialty sales (2026). Xintong Han, Jan Victor Dee, Shaojia Wang & Kefan Chen. Journal of Development Economics, 179, 103665. https://doi.org/10.1016/j.jdeveco.2025.103665
+- [Digital revitalization or useless effort? Public e-commerce support and local specialty sales](https://han-xintong.github.io/research/public-ecommerce-support/) (2026)
+  - Authors: Xintong Han, Jan Victor Dee, Shaojia Wang & Kefan Chen
+  - Publication: Journal of Development Economics, 179, 103665. DOI: https://doi.org/10.1016/j.jdeveco.2025.103665
+  - Setting and method: Pu’er tea farmers in China · Staggered platform rollout and household panel data
   - Finding: Platform access increased online sales by 16.649% and decreased offline sales by 15.549%, while total sales remained broadly unchanged.
-- Effectiveness of online education during the COVID-19 pandemic: Evidence from Chinese universities (2026). Xintong Han, Shijie Lu, Xin (Shane) Wang & Nan Cui. Production and Operations Management, 35(3), 978–994. https://doi.org/10.1177/10591478251361979
+  - Interpretation: The intervention combines platform access with complementary support. Estimates use the staggered rollout and household panel data; they should not be interpreted as the effect of a randomly assigned, stand-alone online storefront.
+  - Citation: https://han-xintong.github.io/research/public-ecommerce-support/citation.bib
+- [Effectiveness of online education during the COVID-19 pandemic: Evidence from Chinese universities](https://han-xintong.github.io/research/online-education/) (2026)
+  - Authors: Xintong Han, Shijie Lu, Xin (Shane) Wang & Nan Cui
+  - Publication: Production and Operations Management, 35(3), 978–994. DOI: https://doi.org/10.1177/10591478251361979
+  - Setting and method: Nine Chinese universities · Pandemic-induced transition to online learning
   - Finding: Online education increased mathematics scores by 8–11 points on a 100-point scale; effects varied with course type and lockdown policies.
-- Nonlinear pricing in multidimensional context: An empirical analysis of energy consumption (2023). Xintong Han, Zimin Liu & Tong Wang. International Journal of Industrial Organization, 91, 103034. https://doi.org/10.1016/j.ijindorg.2023.103034
+  - Interpretation: The evidence concerns the pandemic transition in the sampled universities and courses. Mathematics-score gains are measured in points, not percentages, and do not imply equal benefits across all subjects or online-learning settings.
+  - Citation: https://han-xintong.github.io/research/online-education/citation.bib
+- [Nonlinear pricing in multidimensional context: An empirical analysis of energy consumption](https://han-xintong.github.io/research/nonlinear-energy-pricing/) (2023)
+  - Authors: Xintong Han, Zimin Liu & Tong Wang
+  - Publication: International Journal of Industrial Organization, 91, 103034. DOI: https://doi.org/10.1016/j.ijindorg.2023.103034
+  - Setting and method: Household electricity use in Hangzhou, China · Structural demand estimation
   - Finding: The structural estimates imply that a 1% price increase reduces total electricity demand by about 0.7%, with limited scope for further tariff optimization.
-- Peer recognition, badge policies, and content contribution: An empirical study (2023). Xintong Han, Yushen Li & Tong Wang. Journal of Economic Behavior & Organization, 214, 691–707. https://doi.org/10.1016/j.jebo.2023.08.021
+  - Interpretation: The elasticity and tariff counterfactuals are model-based implications of the observed pricing environment, rather than experimental estimates of a tariff reform.
+  - Citation: https://han-xintong.github.io/research/nonlinear-energy-pricing/citation.bib
+- [Peer recognition, badge policies, and content contribution: An empirical study](https://han-xintong.github.io/research/peer-recognition/) (2023)
+  - Authors: Xintong Han, Yushen Li & Tong Wang
+  - Publication: Journal of Economic Behavior & Organization, 214, 691–707. DOI: https://doi.org/10.1016/j.jebo.2023.08.021
+  - Setting and method: Zhihu contributors in China · Panel analysis with instrumental variables
   - Finding: Peer votes encourage content creation, while identity-rich badges can constrain contributions through reputation and privacy concerns.
+  - Interpretation: Results concern peer voting and the particular badge policies studied on Zhihu. They do not establish that all forms of recognition or visibility increase participation.
+  - Citation: https://han-xintong.github.io/research/peer-recognition/citation.bib
 
 ## Selected working papers
 
-- Creator Platform Commission Design. With Pu Zhao, Guanghua School of Management, Peking University, and Bin Gu, Questrom School of Business, Boston University.
+- Creator platform commission design. With Pu Zhao, Guanghua School of Management, Peking University, and Bin Gu, Questrom School of Business, Boston University.
   - Summary: Examines how a platform’s move from a uniform 5% commission to 20%, followed by selective reductions to 5%, changed creator prices and content quality.
-- Technology Adoption in Input-Output Networks. With Lei Xu · NET Institute Working Paper #18-05 · Bank of Canada Staff Working Paper 2019-51
+- Technology adoption in input-output networks. With Lei Xu · NET Institute Working Paper #18-05 · Bank of Canada Staff Working Paper 2019-51
   - Summary: Models Python 3 adoption when a software package’s adoption cost depends on whether its dependency packages support Python 3.
   - Source: https://ssrn.com/abstract=3266251
   - Additional source: https://www.bankofcanada.ca/2019/12/staff-working-paper-2019-51/
 
-## Provenance
+## Provenance and dates
 
-Profile and appointment information is based on official Université Laval records. Peer-reviewed publication metadata is linked to DOI and publisher records. Working-paper information summarizes the author's current research record and linked institutional records where available. This summary was last verified on 2026-09-04.
+Site content last updated: 2026-09-11.
+Profile baseline verified against institutional records: 2026-07-31.
+Publication metadata and research descriptions checked against publisher and institutional or author-hosted records: 2026-09-11.
+Published journal years refer to the volume/issue citation year, not necessarily the first online date. Research illustrations are illustrative, not empirical figures. Working papers are listed separately from peer-reviewed publications. Full author abstracts are labeled Abstract; original explanatory text is labeled Research overview.
