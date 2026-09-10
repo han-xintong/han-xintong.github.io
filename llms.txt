@@ -53,9 +53,26 @@ Xintong Han studies digital platforms, pricing policies, and networks, using str
   - Source: https://ssrn.com/abstract=3266251
   - Additional source: https://www.bankofcanada.ca/2019/12/staff-working-paper-2019-51/
 
+## Conference participation
+
+[Conference map and records](https://han-xintong.github.io/about/#conferences): 18 in-person conferences and workshops across 12 cities, 2019–2026. Includes presentations and discussions; online participation is excluded. Entries identify host institutions, not exact physical venues.
+- Québec City: 2026 — 65ème Congrès annuel de la Société canadienne de science économique
+- Montréal: 2024 — 63ème Congrès annuel de la Société canadienne de science économique; 2022 — Montreal Econometrics Conference
+- New York: 2019 — NET Institute Conference
+- Toulouse: 2026 — 18th Digital Economics Conference; 2025 — Frontier Research on Structural Econometrics: Theory and Applications (Discussant); 2024 — 12th Biennial Postal Economics Conference on E-commerce, Digital Economy and Delivery Services; 2022 — 11th Biennial Postal Economics Conference on E-commerce, Digital Economy and Delivery Services
+- Seville: 2024 — XXXVIII Jornadas de Economía Industrial
+- Málaga: 2026 — XL Jornadas de Economía Industrial
+- Seoul: 2025 — World Congress of the Econometric Society
+- Shanghai: 2026 — SUFE Empirical IO Conference; 2025 — SUFE Empirical IO Conference (Discussant); 2024 — SUFE Empirical IO Conference
+- Tai’an: 2023 — Conference on Population, Resources, Environment, and Green Low-Carbon Agricultural Development
+- Wuhan: 2019 — Economics and Management Advanced Forum
+- Hong Kong: 2019 — Workshop on Empirical Industrial Organization
+- Singapore: 2026 — Singapore Economic Review Conference
+
 ## Provenance and dates
 
 Site content last updated: 2026-09-11.
 Profile baseline verified against institutional records: 2026-07-31.
 Publication metadata and research descriptions checked against publisher and institutional or author-hosted records: 2026-09-11.
+Conference attendance confirmed directly by Xintong Han against his CV: 2026-09-11. Locations are city-level, not personal travel itineraries.
 Published journal years refer to the volume/issue citation year, not necessarily the first online date. Research illustrations are illustrative, not empirical figures. Working papers are listed separately from peer-reviewed publications. Full author abstracts are labeled Abstract; original explanatory text is labeled Research overview.
