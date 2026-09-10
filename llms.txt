@@ -13,6 +13,15 @@ Email: xintong.han@fsa.ulaval.ca
 
 Xintong Han studies digital platforms, pricing policies, and networks, using structural econometrics, causal inference, and machine learning in econometrics.
 
+## Education
+
+Years are graduation or program-completion years.
+- 2017: Ph.D. in Economics, Toulouse School of Economics.
+- 2012: Statistician-Economist, ENSAE Paris, Grande École Program.
+- 2012: Master in Economics & Public Policy, Sciences Po Paris & École Polytechnique.
+- 2012: Magistère d’Économiste Statisticien, Université Toulouse Capitole & Université de Toulouse.
+- 2009: B.A. in Econometrics, Université Toulouse Capitole.
+
 ## Selected peer-reviewed publications
 
 - [Digital revitalization or useless effort? Public e-commerce support and local specialty sales](https://han-xintong.github.io/research/public-ecommerce-support/) (2026)
@@ -82,6 +91,7 @@ Xintong Han studies digital platforms, pricing policies, and networks, using str
 
 Site content last updated: 2026-09-11.
 Profile baseline verified against institutional records: 2026-07-31.
+Education, appointments, selected grants, recognition, and academic service checked against Xintong Han's supplied CV and confirmed corrections: 2026-09-11.
 Publication metadata and research descriptions checked against publisher and institutional or author-hosted records: 2026-09-11.
 Academic activity records checked against Xintong Han's CV and his confirmed scope and exclusions: 2026-09-11. Locations are city-level, not personal travel itineraries.
 Published journal years refer to the volume/issue citation year, not necessarily the first online date. Research illustrations are illustrative, not empirical figures. Working papers are listed separately from peer-reviewed publications. Full author abstracts are labeled Abstract; original explanatory text is labeled Research overview.
