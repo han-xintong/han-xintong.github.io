@@ -64,7 +64,7 @@ Years are graduation or program-completion years.
 
 ## Talks, conferences, and research visits
 
-[Academic activity map](https://han-xintong.github.io/about/#conferences): 38 recorded conferences, workshops, seminars, lectures, and research visits across 21 cities, 2019–2026. These are activity records, not a count of separate trips. The map displays cities and years; detailed source records follow.
+[Academic activity map](https://han-xintong.github.io/about/#conferences): 40 activity records, including 2 upcoming, across 21 cities, 2019–2026. Records cover conferences, workshops, seminars, lectures, and research visits, not a count of separate trips. Upcoming records describe planned activities, not completed participation. The map displays cities and years; detailed source records follow.
 - Québec City: 2026-10-08 — Café économique (brown bag seminar); Department of Economics, Université Laval; 2026 — 65ème Congrès annuel de la Société canadienne de science économique; 2024 — Seminar at the Faculty of Business Administration; Université Laval; 2023 — Seminar at the Faculty of Business Administration; Université Laval
 - Montréal: 2024 — 63ème Congrès annuel de la Société canadienne de science économique; 2022 — Montreal Econometrics Conference
 - Ottawa: 2019 — Research visit; Bank of Canada
@@ -80,10 +80,10 @@ Years are graduation or program-completion years.
 - Nanjing: 2026 — Seminar at the School of Business; Nanjing University
 - Shanghai: 2026 — SUFE Empirical IO Conference; 2025 — SUFE Empirical IO Conference (Discussant); 2024 — SUFE Empirical IO Conference; 2023 — Seminar at the School of Management; Fudan University; 2019 — Seminar at the Department of Economics; Shanghai University of Finance and Economics; 2019 — Seminar at the International Business School; Shanghai University of International Business and Economics; 2019 — College of Business Lecture Hall; Shanghai University of Finance and Economics
 - Seoul: 2025 — World Congress of the Econometric Society
-- Chengdu: 2025 — Seminar at the School of Business Administration; Southwestern University of Finance and Economics; 2019 — Seminar at the Research Institute of Economics and Management; Southwestern University of Finance and Economics
+- Chengdu: 2026 — Workshop on Urban–Rural Integration and Agricultural Modernization; Research Institute of Economics and Management, Southwestern University of Finance and Economics (Upcoming); 2025 — Seminar at the School of Business Administration; Southwestern University of Finance and Economics; 2019 — Seminar at the Research Institute of Economics and Management; Southwestern University of Finance and Economics
 - Chongqing: 2024 — Seminar at the School of Economics and Management; Southwest University
 - Wuhan: 2019 — Economics and Management Advanced Forum
-- Guangzhou: 2024 — Seminar at the Faculty of Management; Zhongkai University of Agriculture and Engineering; 2023 — Seminar at the Institute of Industrial Economics; Jinan University
+- Guangzhou: 2026 — Seminar at the Institute of Industrial Economics; Jinan University (Upcoming); 2024 — Seminar at the Faculty of Management; Zhongkai University of Agriculture and Engineering; 2023 — Seminar at the Institute of Industrial Economics; Jinan University
 - Hong Kong: 2026 — Research visit at the Faculty of Business; The Hong Kong Polytechnic University; 2019 — Workshop on Empirical Industrial Organization
 - Singapore: 2026 — Singapore Economic Review Conference
 
