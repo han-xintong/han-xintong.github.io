@@ -22,6 +22,10 @@ Years are graduation or program-completion years.
 - 2012: Magistère d’Économiste Statisticien, Université Toulouse Capitole & Université de Toulouse.
 - 2009: B.A. in Econometrics, Université Toulouse Capitole.
 
+## Recent research funding
+
+- 2026–2027: SSHRC Institutional Grant, Exploratory Stream, principal investigator, Université Laval, CAD 1,670.20. Confirmed against the supplied CV and institutional profile on 2026-11-20.
+
 ## Selected peer-reviewed publications
 
 - [Digital revitalization or useless effort? Public e-commerce support and local specialty sales](https://han-xintong.github.io/research/public-ecommerce-support/) (2026)
@@ -30,6 +34,7 @@ Years are graduation or program-completion years.
   - Setting and method: Pu’er tea farmers in China · Staggered platform rollout and household panel data
   - Finding: Platform access increased online sales by 16.649% and decreased offline sales by 15.549%, while total sales remained broadly unchanged.
   - Interpretation: The intervention combines platform access with complementary support. Estimates use the staggered rollout and household panel data; they should not be interpreted as the effect of a randomly assigned, stand-alone online storefront.
+  - Source: https://doi.org/10.1016/j.jdeveco.2025.103665 (checked 2026-09-11)
   - Citation: https://han-xintong.github.io/research/public-ecommerce-support/citation.bib
 - [Effectiveness of online education during the COVID-19 pandemic: Evidence from Chinese universities](https://han-xintong.github.io/research/online-education/) (2026)
   - Authors: Xintong Han, Shijie Lu, Xin (Shane) Wang & Nan Cui
@@ -37,6 +42,7 @@ Years are graduation or program-completion years.
   - Setting and method: Nine Chinese universities · Pandemic-induced transition to online learning
   - Finding: Online education increased mathematics scores by 8–11 points on a 100-point scale; effects varied with course type and lockdown policies.
   - Interpretation: The evidence concerns the pandemic transition in the sampled universities and courses. Mathematics-score gains are measured in points, not percentages, and do not imply equal benefits across all subjects or online-learning settings.
+  - Source: https://journals.sagepub.com/doi/10.1177/10591478251361979 (checked 2026-11-20)
   - Citation: https://han-xintong.github.io/research/online-education/citation.bib
 - [Nonlinear pricing in multidimensional context: An empirical analysis of energy consumption](https://han-xintong.github.io/research/nonlinear-energy-pricing/) (2023)
   - Authors: Xintong Han, Zimin Liu & Tong Wang
@@ -44,6 +50,7 @@ Years are graduation or program-completion years.
   - Setting and method: Household electricity use in Hangzhou, China · Structural demand estimation
   - Finding: The structural estimates imply that a 1% price increase reduces total electricity demand by about 0.7%, with limited scope for further tariff optimization.
   - Interpretation: The elasticity and tariff counterfactuals are model-based implications of the observed pricing environment, rather than experimental estimates of a tariff reform.
+  - Source: https://www.research.ed.ac.uk/en/publications/nonlinear-pricing-in-multidimensional-context-an-empirical-analys/ (checked 2026-09-11)
   - Citation: https://han-xintong.github.io/research/nonlinear-energy-pricing/citation.bib
 - [Peer recognition, badge policies, and content contribution: An empirical study](https://han-xintong.github.io/research/peer-recognition/) (2023)
   - Authors: Xintong Han, Yushen Li & Tong Wang
@@ -51,7 +58,21 @@ Years are graduation or program-completion years.
   - Setting and method: Zhihu contributors in China · Panel analysis with instrumental variables
   - Finding: Peer votes encourage content creation, while identity-rich badges can constrain contributions through reputation and privacy concerns.
   - Interpretation: Results concern peer voting and the particular badge policies studied on Zhihu. They do not establish that all forms of recognition or visibility increase participation.
+  - Source: https://www.research.ed.ac.uk/en/publications/peer-recognition-badge-policies-and-content-contribution-an-empir/ (checked 2026-09-11)
   - Citation: https://han-xintong.github.io/research/peer-recognition/citation.bib
+
+## Manuscript under revision
+
+- [The effects of online referrals on subscription renewals: Evidence from a digital content platform](https://han-xintong.github.io/research/online-referrals-subscription-renewals/)
+  - Authors: Xintong Han, Shiliang Cui, Xin (Shane) Wang, Shaojia Wang & Tong Wang
+  - Status: Minor revision at Manufacturing & Service Operations Management. Not accepted or published.
+  - Manuscript version: 2026; this is not a publication year.
+  - Research question: How do renewal prices and referral-network relationships relate to subscription renewals, and who should receive renewal discounts?
+  - Setting and method: More than 260,000 renewal observations from a Chinese digital content platform; panel regressions and a structural model of renewal decisions within referral networks.
+  - Model-based finding: Holding the observed referral network fixed, the estimated model predicts larger renewal gains from discounts to referred-in customers than from discounts to referrers, both at the same expected discount cost and for the same number of targeted users.
+  - Interpretation: The discount comparison is a structural-model simulation, not a randomized test of a targeting policy. The referral-concentration exercise holds referral-link counts and observed characteristics fixed and assumes model parameters remain invariant across the compared networks.
+  - Citation: https://han-xintong.github.io/research/online-referrals-subscription-renewals/citation.bib
+  - Title and abstract checked against the author-supplied manuscript; authors checked against the supplied CV; revision status confirmed by Xintong Han: 2026-11-20.
 
 ## Selected working papers
 
@@ -64,7 +85,7 @@ Years are graduation or program-completion years.
 
 ## Talks, conferences, and research visits
 
-[Academic activity map](https://han-xintong.github.io/about/#conferences): 40 activity records, including 2 upcoming, across 21 cities, 2019–2026. Records cover conferences, workshops, seminars, lectures, and research visits, not a count of separate trips. Upcoming records describe planned activities, not completed participation. The map displays cities and years; detailed source records follow.
+[Academic activity map](https://han-xintong.github.io/about/#conferences): 40 activity records across 21 cities, 2019–2026. Records cover conferences, workshops, seminars, lectures, and research visits, not a count of separate trips. The map displays cities and years; detailed source records follow.
 - Québec City: 2026-10-08 — Café économique (brown bag seminar); Department of Economics, Université Laval; 2026 — 65ème Congrès annuel de la Société canadienne de science économique; 2024 — Seminar at the Faculty of Business Administration; Université Laval; 2023 — Seminar at the Faculty of Business Administration; Université Laval
 - Montréal: 2024 — 63ème Congrès annuel de la Société canadienne de science économique; 2022 — Montreal Econometrics Conference
 - Ottawa: 2019 — Research visit; Bank of Canada
@@ -80,19 +101,19 @@ Years are graduation or program-completion years.
 - Nanjing: 2026 — Seminar at the School of Business; Nanjing University
 - Shanghai: 2026 — SUFE Empirical IO Conference; 2025 — SUFE Empirical IO Conference (Discussant); 2024 — SUFE Empirical IO Conference; 2023 — Seminar at the School of Management; Fudan University; 2019 — Seminar at the Department of Economics; Shanghai University of Finance and Economics; 2019 — Seminar at the International Business School; Shanghai University of International Business and Economics; 2019 — College of Business Lecture Hall; Shanghai University of Finance and Economics
 - Seoul: 2025 — World Congress of the Econometric Society
-- Chengdu: 2026 — Workshop on Urban–Rural Integration and Agricultural Modernization; Research Institute of Economics and Management, Southwestern University of Finance and Economics (Upcoming); 2025 — Seminar at the School of Business Administration; Southwestern University of Finance and Economics; 2019 — Seminar at the Research Institute of Economics and Management; Southwestern University of Finance and Economics
+- Chengdu: 2026 — Workshop on Urban–Rural Integration and Agricultural Modernization; Research Institute of Economics and Management, Southwestern University of Finance and Economics; 2025 — Seminar at the School of Business Administration; Southwestern University of Finance and Economics; 2019 — Seminar at the Research Institute of Economics and Management; Southwestern University of Finance and Economics
 - Chongqing: 2024 — Seminar at the School of Economics and Management; Southwest University
 - Wuhan: 2019 — Economics and Management Advanced Forum
-- Guangzhou: 2026 — Seminar at the Institute of Industrial Economics; Jinan University (Upcoming); 2024 — Seminar at the Faculty of Management; Zhongkai University of Agriculture and Engineering; 2023 — Seminar at the Institute of Industrial Economics; Jinan University
+- Guangzhou: 2026 — Seminar at the Institute of Industrial Economics; Jinan University; 2024 — Seminar at the Faculty of Management; Zhongkai University of Agriculture and Engineering; 2023 — Seminar at the Institute of Industrial Economics; Jinan University
 - Hong Kong: 2026 — Research visit at the Faculty of Business; The Hong Kong Polytechnic University; 2019 — Workshop on Empirical Industrial Organization
 - Singapore: 2026 — Singapore Economic Review Conference
 
 ## Provenance and dates
 
-Site content last updated: 2026-10-18.
+Site content last updated: 2026-11-20.
 Profile baseline verified against institutional records: 2026-07-31.
 Education, appointments, selected grants, recognition, and academic service checked against Xintong Han's supplied CV and confirmed corrections: 2026-09-11.
-Publication metadata and research descriptions checked against publisher and institutional or author-hosted records: 2026-09-11.
+Published-paper metadata and research descriptions have a 2026-09-11 verification baseline; individual source-check dates are listed with each paper above. The online-education abstract and citation were checked against Sage on 2026-11-20.
 Academic activity records checked against Xintong Han's CV and his confirmed scope and exclusions: 2026-09-11. Locations are city-level, not personal travel itineraries.
-Additional workshop and seminar records confirmed by Xintong Han: 2026-10-18.
+Completion of the Southwestern University of Finance and Economics workshop and Jinan University seminar confirmed by Xintong Han: 2026-11-20.
 Published journal years refer to the volume/issue citation year, not necessarily the first online date. Research illustrations are illustrative, not empirical figures. Working papers are listed separately from peer-reviewed publications. Full author abstracts are labeled Abstract; original explanatory text is labeled Research overview.
