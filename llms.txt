@@ -61,19 +61,6 @@ Years are graduation or program-completion years.
   - Source: https://www.research.ed.ac.uk/en/publications/peer-recognition-badge-policies-and-content-contribution-an-empir/ (checked 2026-09-11)
   - Citation: https://han-xintong.github.io/research/peer-recognition/citation.bib
 
-## Manuscript under revision
-
-- [The effects of online referrals on subscription renewals: Evidence from a digital content platform](https://han-xintong.github.io/research/online-referrals-subscription-renewals/)
-  - Authors: Xintong Han, Shiliang Cui, Xin (Shane) Wang, Shaojia Wang & Tong Wang
-  - Status: Minor revision at Manufacturing & Service Operations Management. Not accepted or published.
-  - Manuscript version: 2026; this is not a publication year.
-  - Research question: How do renewal prices and referral-network relationships relate to subscription renewals, and who should receive renewal discounts?
-  - Setting and method: More than 260,000 renewal observations from a Chinese digital content platform; panel regressions and a structural model of renewal decisions within referral networks.
-  - Model-based finding: Holding the observed referral network fixed, the estimated model predicts larger renewal gains from discounts to referred-in customers than from discounts to referrers, both at the same expected discount cost and for the same number of targeted users.
-  - Interpretation: The discount comparison is a structural-model simulation, not a randomized test of a targeting policy. The referral-concentration exercise holds referral-link counts and observed characteristics fixed and assumes model parameters remain invariant across the compared networks.
-  - Citation: https://han-xintong.github.io/research/online-referrals-subscription-renewals/citation.bib
-  - Title and abstract checked against the author-supplied manuscript; authors checked against the supplied CV; revision status confirmed by Xintong Han: 2026-11-20.
-
 ## Selected working papers
 
 - Creator platform commission design. With Pu Zhao and Bin Gu
