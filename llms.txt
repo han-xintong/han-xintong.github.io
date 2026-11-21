@@ -32,6 +32,7 @@ Years are graduation or program-completion years.
   - Authors: Xintong Han, Shiliang Cui, Xin (Shane) Wang, Shaojia Wang & Tong Wang
   - Manufacturing & Service Operations Management · Accepted
   - Abstract: https://han-xintong.github.io/research/online-referrals-subscription-renewals/
+  - Online appendix: https://www.dropbox.com/scl/fi/5itkmtpt8jo2uvrwot8gd/MSOM_Online_Appendix.pdf?rlkey=3kxor53j9fi79ycrx2uecf6li&dl=0
   - Citation: https://han-xintong.github.io/research/online-referrals-subscription-renewals/citation.bib
 
 - [Digital revitalization or useless effort? Public e-commerce support and local specialty sales](https://han-xintong.github.io/research/public-ecommerce-support/) (2026)
