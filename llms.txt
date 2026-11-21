@@ -31,6 +31,8 @@ Years are graduation or program-completion years.
 - The effects of online referrals on subscription renewals: Evidence from a digital content platform
   - Authors: Xintong Han, Shiliang Cui, Xin (Shane) Wang, Shaojia Wang & Tong Wang
   - Manufacturing & Service Operations Management · Accepted
+  - Abstract: https://han-xintong.github.io/research/online-referrals-subscription-renewals/
+  - Citation: https://han-xintong.github.io/research/online-referrals-subscription-renewals/citation.bib
 
 - [Digital revitalization or useless effort? Public e-commerce support and local specialty sales](https://han-xintong.github.io/research/public-ecommerce-support/) (2026)
   - Authors: Xintong Han, Jan Victor Dee, Shaojia Wang & Kefan Chen
