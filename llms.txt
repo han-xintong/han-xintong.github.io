@@ -28,6 +28,10 @@ Years are graduation or program-completion years.
 
 ## Selected peer-reviewed publications
 
+- The effects of online referrals on subscription renewals: Evidence from a digital content platform
+  - Authors: Xintong Han, Shiliang Cui, Xin (Shane) Wang, Shaojia Wang & Tong Wang
+  - Manufacturing & Service Operations Management · Accepted
+
 - [Digital revitalization or useless effort? Public e-commerce support and local specialty sales](https://han-xintong.github.io/research/public-ecommerce-support/) (2026)
   - Authors: Xintong Han, Jan Victor Dee, Shaojia Wang & Kefan Chen
   - Publication: Journal of Development Economics, 179, 103665. DOI: https://doi.org/10.1016/j.jdeveco.2025.103665
@@ -97,7 +101,7 @@ Years are graduation or program-completion years.
 
 ## Provenance and dates
 
-Site content last updated: 2026-11-20.
+Site content last updated: 2026-11-22.
 Profile baseline verified against institutional records: 2026-07-31.
 Education, appointments, selected grants, recognition, and academic service checked against Xintong Han's supplied CV and confirmed corrections: 2026-09-11.
 Published-paper metadata and research descriptions have a 2026-09-11 verification baseline; individual source-check dates are listed with each paper above. The online-education abstract and citation were checked against Sage on 2026-11-20.
