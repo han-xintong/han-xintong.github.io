@@ -8,11 +8,17 @@ Official university profile: https://www.fsa.ulaval.ca/en/expert/xintong-han/
 Marketing department: https://www.fsa.ulaval.ca/faculte/departements-ecole/mrk/
 ORCID: https://orcid.org/0000-0001-7369-0506
 Google Scholar: https://scholar.google.com/citations?user=ZbgMprUAAAAJ&hl=en
+RePEc/IDEAS: https://ideas.repec.org/f/pha1271.html
 Email: xintong.han@fsa.ulaval.ca
 
 ## Research
 
 Xintong Han studies digital platforms, pricing policies, and networks, using structural econometrics, causal inference, and machine learning in econometrics.
+
+## Appointments
+
+- 2023–present: Assistant Professor of Marketing, Faculty of Business Administration, Université Laval.
+- 2017–2023: Assistant Professor of Economics, Concordia University.
 
 ## Education
 
@@ -25,16 +31,15 @@ Years are graduation or program-completion years.
 
 ## Recent research funding
 
-- 2026–2027: SSHRC Institutional Grant, Exploratory Stream, principal investigator, Université Laval, CAD 1,670.20. Confirmed against the supplied CV and institutional profile on 2026-11-20.
+- 2026–2027: SSHRC Institutional Grant, Exploratory Stream, principal investigator, Université Laval, CAD 1,670.
 
 ## Publications
 
-- The effects of online referrals on subscription renewals: Evidence from a digital content platform
+- [The effects of online referrals on subscription renewals: Evidence from a digital content platform](https://han-xintong.github.io/research/online-referrals-subscription-renewals/)
   - Authors: Xintong Han, Shiliang Cui, Xin (Shane) Wang, Shaojia Wang & Tong Wang
   - Manufacturing & Service Operations Management · forthcoming
   - Finding: At the same expected discount cost, the model predicts more renewals when discounts go to referred-in customers than when they go to referrers.
   - Funding: NET Institute 2022 Summer Research Grant
-  - Abstract: https://han-xintong.github.io/research/online-referrals-subscription-renewals/
   - Online appendix: https://www.dropbox.com/scl/fi/5itkmtpt8jo2uvrwot8gd/MSOM_Online_Appendix.pdf?rlkey=3kxor53j9fi79ycrx2uecf6li&dl=0
   - Citation: https://han-xintong.github.io/research/online-referrals-subscription-renewals/citation.bib
 
@@ -111,8 +116,7 @@ Years are graduation or program-completion years.
 
 Site content last updated: 2026-11-22.
 Profile baseline verified against institutional records: 2026-07-31.
-Education, appointments, selected grants, recognition, and academic service checked against Xintong Han's supplied CV and confirmed corrections: 2026-09-11.
+Education, appointments, selected grants, recognition, and academic service checked against Xintong Han's CV: 2026-09-11.
 Published-paper metadata and research descriptions have a 2026-09-11 verification baseline; individual source-check dates are listed with each paper above. The online-education abstract and citation were checked against Sage on 2026-11-20.
-Academic activity records checked against Xintong Han's CV and his confirmed scope and exclusions: 2026-09-11. Locations are city-level, not personal travel itineraries.
-Completion of the Southwestern University of Finance and Economics workshop and Jinan University seminar confirmed by Xintong Han: 2026-11-20.
+Academic activity records checked against Xintong Han's CV: 2026-09-11; latest additions confirmed 2026-11-20. Locations are city-level, not personal travel itineraries.
 Published journal years refer to the volume/issue citation year, not necessarily the first online date. Research illustrations are illustrative, not empirical figures. Working papers are listed separately from peer-reviewed publications. Each published-paper page displays the complete author abstract.
