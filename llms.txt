@@ -5,6 +5,7 @@
 Canonical profile: https://han-xintong.github.io/
 Academic background: https://han-xintong.github.io/about/
 Official university profile: https://www.fsa.ulaval.ca/en/expert/xintong-han/
+Marketing department: https://www.fsa.ulaval.ca/faculte/departements-ecole/mrk/
 ORCID: https://orcid.org/0000-0001-7369-0506
 Google Scholar: https://scholar.google.com/citations?user=ZbgMprUAAAAJ&hl=en
 Email: xintong.han@fsa.ulaval.ca
@@ -32,6 +33,7 @@ Years are graduation or program-completion years.
   - Authors: Xintong Han, Shiliang Cui, Xin (Shane) Wang, Shaojia Wang & Tong Wang
   - Manufacturing & Service Operations Management · forthcoming
   - Finding: At the same expected discount cost, the model predicts more renewals when discounts go to referred-in customers than when they go to referrers.
+  - Funding: NET Institute 2022 Summer Research Grant
   - Abstract: https://han-xintong.github.io/research/online-referrals-subscription-renewals/
   - Online appendix: https://www.dropbox.com/scl/fi/5itkmtpt8jo2uvrwot8gd/MSOM_Online_Appendix.pdf?rlkey=3kxor53j9fi79ycrx2uecf6li&dl=0
   - Citation: https://han-xintong.github.io/research/online-referrals-subscription-renewals/citation.bib
@@ -41,6 +43,7 @@ Years are graduation or program-completion years.
   - Publication: Journal of Development Economics, 179, 103665. DOI: https://doi.org/10.1016/j.jdeveco.2025.103665
   - Setting and method: Pu’er tea farmers in China · Staggered platform rollout and household panel data
   - Finding: Platform access increased online sales by 16.649% and decreased offline sales by 15.549%, while total sales remained broadly unchanged.
+  - Funding: NET Institute 2023 Summer Research Grant
   - Interpretation: The intervention combines platform access with complementary support. Estimates use the staggered rollout and household panel data; they should not be interpreted as the effect of a randomly assigned, stand-alone online storefront.
   - Source: https://doi.org/10.1016/j.jdeveco.2025.103665 (checked 2026-09-11)
   - Citation: https://han-xintong.github.io/research/public-ecommerce-support/citation.bib
@@ -65,6 +68,7 @@ Years are graduation or program-completion years.
   - Publication: Journal of Economic Behavior & Organization, 214, 691–707. DOI: https://doi.org/10.1016/j.jebo.2023.08.021
   - Setting and method: Zhihu contributors in China · Panel analysis with instrumental variables
   - Finding: Peer votes encourage content creation, while identity-rich badges can constrain contributions through reputation and privacy concerns.
+  - Award: 2021 CES Best Paper Honorable Mention
   - Interpretation: Results concern peer voting and the particular badge policies studied on Zhihu. They do not establish that all forms of recognition or visibility increase participation.
   - Source: https://www.research.ed.ac.uk/en/publications/peer-recognition-badge-policies-and-content-contribution-an-empir/ (checked 2026-09-11)
   - Citation: https://han-xintong.github.io/research/peer-recognition/citation.bib
