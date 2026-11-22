@@ -38,7 +38,7 @@ Years are graduation or program-completion years.
 - [The effects of online referrals on subscription renewals: Evidence from a digital content platform](https://han-xintong.github.io/research/online-referrals-subscription-renewals/)
   - Authors: Xintong Han, Shiliang Cui, Xin (Shane) Wang, Shaojia Wang & Tong Wang
   - Manufacturing & Service Operations Management · forthcoming
-  - Finding: At the same expected discount cost, the model predicts more renewals when discounts go to referred-in customers than when they go to referrers.
+  - Finding: On a Chinese digital content platform, users renew more often when their referrer renews, yet referred-in users renew less often than non-referred users. At the same expected discount cost, the model predicts more renewals when discounts go to referred-in customers than when they go to referrers.
   - Funding: NET Institute 2022 Summer Research Grant
   - Online appendix: https://www.dropbox.com/scl/fi/5itkmtpt8jo2uvrwot8gd/MSOM_Online_Appendix.pdf?rlkey=3kxor53j9fi79ycrx2uecf6li&dl=0
   - Citation: https://han-xintong.github.io/research/online-referrals-subscription-renewals/citation.bib
