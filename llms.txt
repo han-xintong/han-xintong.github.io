@@ -64,6 +64,13 @@ Years are graduation or program-completion years.
 
 ## Other Publications
 
+- [Fit classmates: The effect of peers on exercise habits in students](https://han-xintong.github.io/research/fit-classmates/)
+  - Authors: Zheng Pan, Jan Victor Dee, Xintong Han & Xuxian Zhang
+  - Annals of Economics and Statistics · Conditionally Accepted
+  - Finding: Chinese middle school students were more likely to exercise for at least an hour a day outside class when more of their classmates did so.
+  - Funding: Project of Philosophy and Social Sciences of Guangdong Province (GD20CYJ17); Research Start-up Funds for Outstanding Doctoral Talents of Zhongkai University of Agriculture and Engineering.
+  - Citation: https://han-xintong.github.io/research/fit-classmates/citation.bib
+
 - [Nonlinear pricing in multidimensional context: An empirical analysis of energy consumption](https://han-xintong.github.io/research/nonlinear-energy-pricing/) (2023)
   - Authors: Xintong Han, Zimin Liu & Tong Wang
   - Publication: International Journal of Industrial Organization, 91, 103034. DOI: https://doi.org/10.1016/j.ijindorg.2023.103034
